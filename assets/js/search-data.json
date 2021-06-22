@@ -46,10 +46,10 @@
   
     
         ,"post4": {
-            "title": "Manim0",
+            "title": "Adventures with manim",
             "content": "Adventures with manim . I began experimenting with manim, in an attempt to introduce a new tool into the classroom. . Adventures with manim What is manim? | Why am I exploring this? | The aim of this exploration | | What is manim? . Manim is a Python package used for creating explanatory mathematics videos by the educator 3Blue1Brown. I am currently using the community version for its reported increased stability and documentation. . Why am I exploring this? . I desired to create explanations that my students can access, and help them see math for its beautiful diagrams and visualisations, instead of the nitty gritty algebraic manipulations and substitutions. Too often, intuition is missed from spending too much time in the trenches of balancing equations and simplifying expressions. . The aim of this exploration . To produce experimental concept teaching videos with the aid of manim. | To share simple examples of the unique offerings of manim as a pedagogical tool. | .",
-            "url": "https://christophertkl.github.io/blog.skylight/2021/06/04/manim0.html",
-            "relUrl": "/2021/06/04/manim0.html",
+            "url": "https://christophertkl.github.io/blog.skylight/learning/manim/2021/06/04/manim0.html",
+            "relUrl": "/learning/manim/2021/06/04/manim0.html",
             "date": " • Jun 4, 2021"
         }
         
