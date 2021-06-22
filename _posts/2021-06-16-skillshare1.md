@@ -1,6 +1,8 @@
 ---
 title: "Skillshare Chapter 1: Productivity with Ali Abdaal"
 categories: [learning, productivity, skillshare]
+layout: post
+comments: true
 ---
 
 # Skillshare Chapter 1: Productivity with Ali Abdaal
