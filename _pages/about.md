@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+# About
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am a Mathematics educator who recently (unofficially) completed the Postgraduate Diploma in Education. Before this, I was a student at the National University of Singapore, taking Applied Mathematics. NUS was where I discovered my love of programming, which I am working on developing in my own free time.
