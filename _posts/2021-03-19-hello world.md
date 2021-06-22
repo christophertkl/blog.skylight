@@ -1,3 +1,9 @@
+---
+title: "Hello world"
+layout: post
+comments: true
+---
+
 # Hello world
 
 Here's the table of contents:
