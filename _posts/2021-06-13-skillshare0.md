@@ -1,6 +1,8 @@
 ---
 title: "My Skillshare binge"
 categories: [learning, leisure ,skillshare]
+layout: post
+comments: true
 ---
 
 # My Skillshare binge
