@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: 'A review of the Skillshare course Simple Productivity: How to Accomplish More With Less'
 comments: true
-categories: [productivity, decision-making]
+categories: [productivity, decision-making, skillshare]
 title: 'Skillshare Chapter 3: Essentialism with Greg McKeown'
 ---
 # Skillshare Chapter 3: Essentialism with Greg McKeown
