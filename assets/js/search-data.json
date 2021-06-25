@@ -59,8 +59,8 @@
         ,"post5": {
             "title": "Chapter 0.1: First steps with manim",
             "content": "Chapter 0.1: First steps with manim . The very first project that I put out in the classroom, was one showing the basic transformations of graphs. For starters, I wanted this video to replace the teacher’s explanation in the classroom, in hopes of scaling high-quality explanations for my classrooms in the years to come. . . I couldn’t achieve that pedagogical intention, because the video explanation is not that high-quality in the first place. Among some reasons I can think of are: . Lacking an audio explanation (a la Khan Academy) | Scenes moving too fast to allow students to consider the pedagogical intention of the videos. | . That being said, I do want to reflect on some techniques being used in this video, made with the Manim package. Hopefully some of the notes here will help people embarking on their journey with Manim as well. . The posts that follow will be some elaboration on the methods to produce some videos made. For a more professional and elaborate learning journey, do refer to the resources below: . Manim Community | Theorem of Beethoven YouTube channel |",
-            "url": "https://christophertkl.github.io/blog.skylight/learning/manim/2021/06/12/manim1.html",
-            "relUrl": "/learning/manim/2021/06/12/manim1.html",
+            "url": "https://christophertkl.github.io/blog.skylight/technology/2021/06/12/manim1.html",
+            "relUrl": "/technology/2021/06/12/manim1.html",
             "date": " • Jun 12, 2021"
         }
         
