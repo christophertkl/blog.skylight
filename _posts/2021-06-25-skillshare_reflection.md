@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: 'A review of the lessons I learnt from 2 weeks of Skillshare'
 comments: true
-categories: [learning, skillshare]
+categories: [learning,meta]
 title: 'Meta lessons from the Skillshare binge'
 ---
 
