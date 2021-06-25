@@ -6,7 +6,12 @@ comments: true
 categories: [learning]
 title: 'Skillshare Chapter 3: Essentialism with Greg McKeown'
 ---
+
+*This post is part 4 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
+
 This is going to be my last course review for a while, since it is the final week of the June holidays. While I return to work, I am going to examine my routines to see how I can continue this writing habit.
+
+1.TOC{:toc}
 
 ### Who is the creator?
 
