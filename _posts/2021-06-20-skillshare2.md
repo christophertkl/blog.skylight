@@ -3,7 +3,10 @@ title: "Skillshare Chapter 2: Productivity with Thomas Frank"
 categories: [learning]
 layout: post
 comments: true
+toc: true
 ---
+
+*This post is part 3 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
 
 This Skillshare course, **Productivity for Creatives: Build a System that Brings Out Your Best**, is the second subject in my series of course summaries. It focuses on the building of systems, that we can rely on to produce quality work.
 
