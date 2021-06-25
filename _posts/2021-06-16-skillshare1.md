@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-*This post is part 5 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
+*This post is part 2 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
 
 Ali Abdaal is a YouTuber who creates content to 'help people lead happier, healthier and more productive lives with the overall aim of helping people do more of what matters to them.' He is a medical doctor who has during the course of his studying and work, built a YouTube channel of over 1.5 million subscribers, created a series of online channels, and writes a weekly email newsletter and a blog.
 
