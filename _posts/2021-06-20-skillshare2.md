@@ -1,6 +1,6 @@
 ---
 title: "Skillshare Chapter 2: Productivity with Thomas Frank"
-categories: [creativity, productivity, skillshare]
+categories: [learning]
 layout: post
 comments: true
 ---
