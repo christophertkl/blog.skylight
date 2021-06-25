@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: 'A review of the Skillshare course Simple Productivity: How to Accomplish More With Less'
 comments: true
-categories: [productivity, decision-making, skillshare]
+categories: [learning]
 title: 'Skillshare Chapter 3: Essentialism with Greg McKeown'
 ---
 This is going to be my last course review for a while, since it is the final week of the June holidays. While I return to work, I am going to examine my routines to see how I can continue this writing habit.
