@@ -7,17 +7,17 @@ categories: [learning, skillshare]
 title: 'Meta lessons from the Skillshare binge'
 ---
 
-*This post is part 4 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses.*
+*This post is part 5 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses.*
 
 ## Background
 
 For the past month, I have been writing about the lessons learnt from a Skillshare subscription I took in the past month. This post would be a *meta-reflection* on what I have learnt from them.
 
 If you are interested, the other posts can be found here.
-
-1. [Skillshare Chapter 1: Productivity with Ali Abdaal](https://christophertkl.github.io/blog.skylight/learning/productivity/skillshare/2021/06/16/skillshare1.html)
-2. [Skillshare Chapter 2: Productivity with Thomas Frank](https://christophertkl.github.io/blog.skylight/creativity/productivity/skillshare/2021/06/20/skillshare2.html)
-3. [Skillshare Chapter 3: Essentialism with Greg McKeown](https://christophertkl.github.io/blog.skylight/productivity/decision-making/skillshare/2021/06/23/skillshare3.html)
+1. [An introductory post](https://christophertkl.github.io/blog.skylight/learning/leisure/skillshare/2021/06/13/skillshare0.html)
+2. [Skillshare Chapter 1: Productivity with Ali Abdaal](https://christophertkl.github.io/blog.skylight/learning/productivity/skillshare/2021/06/16/skillshare1.html)
+3. [Skillshare Chapter 2: Productivity with Thomas Frank](https://christophertkl.github.io/blog.skylight/creativity/productivity/skillshare/2021/06/20/skillshare2.html)
+4. [Skillshare Chapter 3: Essentialism with Greg McKeown](https://christophertkl.github.io/blog.skylight/productivity/decision-making/skillshare/2021/06/23/skillshare3.html)
 
 The inspiration of this writing experiment was this [blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045) by [fast.ai](http://fast.ai) co-founder Rachel Thomas, who advocated blogging for the sake of learning and helping the people one step behind us.
 
