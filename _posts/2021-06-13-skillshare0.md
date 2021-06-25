@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-# My Skillshare binge
+*This post is part 5 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
 
 ## About Skillshare and why I am bringing it up
 
