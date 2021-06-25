@@ -5,7 +5,8 @@ layout: post
 comments: true
 ---
 
-# Skillshare Chapter 1: Productivity with Ali Abdaal
+*This post is part 5 of a series of posts, discussing some lessons in my 3-week long exploration of Skillshare courses. The summary of the lessons learnt can be found [here](https://christophertkl.github.io/blog.skylight/learning/meta/2021/06/25/skillshare_reflection.html).*
+
 Ali Abdaal is a YouTuber who creates content to 'help people lead happier, healthier and more productive lives with the overall aim of helping people do more of what matters to them.' He is a medical doctor who has during the course of his studying and work, built a YouTube channel of over 1.5 million subscribers, created a series of online channels, and writes a weekly email newsletter and a blog.
 
 He is the most recent productivity content creator I have followed, and I have been extremely impressed with his ability to manage and succeed at so many pursuits, including managing his career as a medical doctor, and running his multiple businesses. I adopted some of his practices, which led to an improvement of my management of studying, volunteering and professional work.
