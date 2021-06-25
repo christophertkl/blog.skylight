@@ -11,7 +11,8 @@ title: 'Skillshare Chapter 3: Essentialism with Greg McKeown'
 
 This is going to be my last course review for a while, since it is the final week of the June holidays. While I return to work, I am going to examine my routines to see how I can continue this writing habit.
 
-1.TOC{:toc}
+1. TOC
+{:toc}
 
 ### Who is the creator?
 
