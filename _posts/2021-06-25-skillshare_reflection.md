@@ -23,6 +23,9 @@ The inspiration of this writing experiment was this [blog post](https://medium.c
 
 This is a reminder that I should not restrict my learning to the professional life, and to continue growing in other domains as well.
 
+1. TOC
+{:toc}
+
 ## Lesson 1: Drop things quickly
 
 There is an endless volume of content available via Google, whether there are in text, or in video. If attention is not captured, move on to the others
