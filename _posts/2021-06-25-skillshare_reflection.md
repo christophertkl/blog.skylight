@@ -15,9 +15,9 @@ For the past month, I have been writing about the lessons learnt from a Skillsha
 
 If you are interested, the other posts can be found here.
 1. [An introductory post](https://christophertkl.github.io/blog.skylight/learning/leisure/skillshare/2021/06/13/skillshare0.html)
-2. [Skillshare Chapter 1: Productivity with Ali Abdaal](https://christophertkl.github.io/blog.skylight/learning/productivity/skillshare/2021/06/16/skillshare1.html)
-3. [Skillshare Chapter 2: Productivity with Thomas Frank](https://christophertkl.github.io/blog.skylight/creativity/productivity/skillshare/2021/06/20/skillshare2.html)
-4. [Skillshare Chapter 3: Essentialism with Greg McKeown](https://christophertkl.github.io/blog.skylight/productivity/decision-making/skillshare/2021/06/23/skillshare3.html)
+2. [Skillshare Chapter 1: Productivity with Ali Abdaal](https://christophertkl.github.io/blog.skylight/learning/2021/06/16/skillshare1.html)
+3. [Skillshare Chapter 2: Productivity with Thomas Frank](https://christophertkl.github.io/blog.skylight/learning/2021/06/20/skillshare2.html)
+4. [Skillshare Chapter 3: Essentialism with Greg McKeown](https://christophertkl.github.io/blog.skylight/learning/2021/06/23/skillshare3.html)
 
 The inspiration of this writing experiment was this [blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045) by [fast.ai](http://fast.ai) co-founder Rachel Thomas, who advocated blogging for the sake of learning and helping the people one step behind us.
 
