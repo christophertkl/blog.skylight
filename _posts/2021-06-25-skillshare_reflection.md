@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: post
 description: 'A review of the lessons I learnt from 2 weeks of Skillshare'
 comments: true
