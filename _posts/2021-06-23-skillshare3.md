@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: post
 description: 'A review of the Skillshare course Simple Productivity: How to Accomplish More With Less'
 comments: true
