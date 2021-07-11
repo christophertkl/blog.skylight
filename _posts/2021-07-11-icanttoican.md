@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: post
 description: 'About a short conversation I had with a student'
 comments: true
